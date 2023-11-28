@@ -438,3 +438,5 @@ Contributions are more than welcome! Please check out the [contributing guide](C
 ## License
 
 [MIT](LICENSE)
+#   s t u d e n t R e g i s t r a t i o n  
+ 
