@@ -15,6 +15,10 @@ const swaggerDef = {
     {
       url: `http://localhost:${config.port}/v1`,
     },
+    {
+      url: `https://student-registration-saun.onrender.com/v1`,
+    },
+
   ],
 };
 
